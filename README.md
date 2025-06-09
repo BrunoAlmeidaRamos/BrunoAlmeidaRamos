@@ -103,19 +103,12 @@ Atualmente, estou estudando as seguintes tecnologias: HTML, CSS, JavaScript, PHP
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BrunoAlmeidaRamos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div  align="center" >
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlmeidaRamos&theme=tokyonight&layout=compact&custom_title=Tecnologias&Langs_count=7" 
-  />
+<div>
+<a href="https://github.com/BrunoAlmeidaRamos">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlmeidaRamos&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoAlmeidaRamos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+</div>
