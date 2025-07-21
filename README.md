@@ -2,8 +2,7 @@
 
 Meu nome é Bruno de Almeida Ramos, tenho 22 anos e sou natural de São Paulo. Concluí o ensino médio e sou formado no curso técnico em Informática pela Proz Educação. Atualmente, estou estudando Programação Web na Obra Social Dom Bosco.
 
-Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos na área.
-Atualmente, estou estudando as seguintes tecnologias: HTML, CSS, JavaScript, PHP, C#, .NET, Bootstrap e MySQL.
+Sou um desenvolvedor .NET júnior, com muita vontade de aprender, evoluir e fazer a diferença na área de tecnologia. Tenho conhecimentos em C#, Entity Framework Core e MySQL, além de experiência em desenvolvimento web com HTML, CSS, JavaScript, PHP, Bootstrap e Angular.
 
 ---
 
