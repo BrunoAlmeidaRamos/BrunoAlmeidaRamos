@@ -1,10 +1,8 @@
 # 👨🏽‍💻 Bruno De Almeida Ramos
 
-Meu nome é Bruno de Almeida Ramos, tenho 22 anos e sou natural de São Paulo.
+Meu nome é Bruno de Almeida Ramos, tenho 22 anos e sou natural de São Paulo. Concluí o ensino médio e sou formado no curso técnico em Informática pela Proz Educação. Atualmente, estou fazendo o curso de API Spring Boot Java no Senai.
 
-Concluí o ensino médio e sou formado no curso técnico em Informática pela Proz Educação. Atualmente, estou fazendo o curso de API Spring Boot Java no Senai.
-
-Sou um desenvolvedor .NET júnior, com muita vontade de aprender, evoluir e fazer a diferença na área de tecnologia. Tenho conhecimentos em C#, Java, Entity Framework Core, Spring Boot e MySQL, além de experiência em desenvolvimento web com HTML5, CSS3, JavaScript, PHP e Bootstrap.
+Sou um desenvolvedor .NET júnior, com muita vontade de aprender, evoluir e fazer a diferença na área de tecnologia. Tenho conhecimentos e experiência em C#, Java, Entity Framework Core, Spring Boot, MySQL, HTML5, CSS3, JavaScript, PHP e Bootstrap.
 ---
 
 ### 🤖 Linguagens e Tecnologias
